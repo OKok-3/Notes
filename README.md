@@ -15,4 +15,4 @@ git rebase --exec 'git commit --amend --no-edit -n -S' -i root
 git rebase --committer-date-is-author-date -i --root
 
 *Author: Peter Babic 
-(source)[https://peterbabic.dev/blog/git-sign-previous-commits-keeping-dates/]*
+[source](https://peterbabic.dev/blog/git-sign-previous-commits-keeping-dates)*
