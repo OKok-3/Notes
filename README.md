@@ -6,7 +6,7 @@
 
 ### GPG Sign All Past Commits In A Repo
 
-`git rebase --exec 'git commit --amend --no-edit -n -S' -i root`
+`git rebase --exec 'git commit --amend --no-edit -n -S' -i --root`
 
 ### Keep Original Commit Dates Back Signing Previous Commits
 
